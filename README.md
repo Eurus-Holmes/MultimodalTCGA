@@ -48,7 +48,9 @@
 │   ├── TCGA.PANCAN.sampleMap_Gistic2_CopyNumber_Gistic2_all_data_by_genes.gz
 │   ├── TCGA.PANCAN.sampleMap_Gistic2_CopyNumber_Gistic2_all_thresholded.by_genes.gz
 │   └── TCGA-RPPA-pancan-clean.txt
-
+├── image_data
+├── image_deconvolved
+├── image_deconvolved2
 
 ```
 
