@@ -1,10 +1,10 @@
 # MultimodalTCGA
 
-## 数据集
+## Datasets
 
 ```
-集群节点: 10.5.34.21
-路径: /mnt/lustre/share_data/chenfeiyang
+cluster: 10.5.34.21
+source: /mnt/lustre/share_data/chenfeiyang
 
 
 
